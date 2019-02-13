@@ -2,7 +2,7 @@
     "name": "hewhereis/test",
     "description": "this is hewhereis test composer packagist",
     "type": "library",
-    "license": "TEST",
+    "license": "proprietary",
     "authors": [
         {
             "name": "WhereIs",
