@@ -1,0 +1,21 @@
+{
+    "name": "hewhereis/test",
+    "description": "this is hewhereis test composer packagist",
+    "type": "library",
+    "license": "TEST",
+    "authors": [
+        {
+            "name": "WhereIs",
+            "email": "1285505793@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4":{
+            "whereis\\ver1\\" : "src/ver1"
+        }
+    }
+}
